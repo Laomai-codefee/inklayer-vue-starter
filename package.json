@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "inklayer-vue": "^1.0.4",
+    "inklayer-vue": "1.0.7",
     "vue": "^3.5.39"
   },
   "devDependencies": {
